@@ -37,28 +37,68 @@ The challenge was to bring uniformity in position (moving up and down) and lines
 
 
 - actual image from pdf:
-
+   
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/test1/test1_page_1.png?raw=true" alt="image" width="400"/>
+  
 
 - without uniformity:
+
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/test1/test1_nomod.png?raw=true" alt="image" width="400"/>
+  
 
 
 - with uniformity:
 
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/test1/test1_f.png?raw=true" alt="image" width="400"/>
+  
 
 
-- Example 1:
-    - original doc converted to image:
-        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_page_1.png?raw=true)
 
-    - Bounding boxes with fonts:
-        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_witharr.jpg?raw=true)
+### example_1:
+- original doc converted to image:
+
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_page_1.png?raw=true" alt="image" width="400"/>
+  
+
+- Bounding boxes with fonts:
+
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_witharr.jpg?raw=true" alt="image" width="400"/>
 
 
-    - Creating new image with background entact and words translated to other language in the image:
-        - in hindi: 
-        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_hin.png?raw=true)
-        - in french: 
-        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_fr.png?raw=true)
-        - in dutch:
-        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_dutch.png?raw=true)
+- Translated to hindi:
+
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_hin.png?raw=true" alt="image" width="400"/>
+
+- Translated to french :
+    
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_fr.png?raw=true" alt="image" width="400"/>
+    
+
+
+- Translated to dutch:
+
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_dutch.png?raw=true)" alt="image" width="400"/>
+    
+
+
+# example_2:
+- original doc converted to image:
+
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/image.png?raw=true" alt="image" width="400"/>
+  
+
+- Bounding boxes with fonts:
+
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/eg2_witharr.jpg?raw=true" alt="image" width="400"/>
+
+
+- Translated to hindi:
+
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/test_f2_hin.png?raw=true" alt="image" width="400"/>
+
+- Translated to french :
+    
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/test_f2_fr.png?raw=true" alt="image" width="400"/>
+    
+
 
