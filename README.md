@@ -59,7 +59,7 @@ The challenge was to bring uniformity in position (moving up and down) and lines
 ### example:
 - original doc converted to image:
 
-<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/image.png?raw=true" alt="image" width="400"/>
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/image.png?raw=true" alt="image" width="400"/>
   
 
 - Bounding boxes with fonts:
