@@ -6,7 +6,7 @@ Font identification system capable of recognizing diverse font styles. By blendi
 
 ## Screenshots
 Scanning text such that around each word, a bounding box is made 
-![image](https://github.com/adityarathor007/Story/assets/120591213/e793bab1-3a07-431e-8c90-549310f75b76)
+![image](/home/adi_techbuddy/Desktop/dc_proj/repo/DocumentTranslation/image_detector/word_5.png)
 
 And then, using our pre-trained model, it will be able to detect the font around each word  
 ![image](https://github.com/adityarathor007/Story/assets/120591213/1d67b0da-4e5f-47f0-8152-e6c8a9dcbf74)
@@ -20,14 +20,14 @@ And then, using our pre-trained model, it will be able to detect the font around
 The aim of this project is to develop a system capable of recognizing text formatting styles in pdf documents using its LaTeX formatting and while preserving those formats to convert to other language 
 
 
-# TRAIN
+## TRAIN
 
 After converting pdfs to image extracted cnn features of each word and given label from latex script for font style and font size
 
 And trained a svm and random forest classifier for font style prediction and regression model for font size on 8k pdf generated synthetically using random words kept in latex script and then converted to pdfs
 
 
-# PIPELINE
+## PIPELINE
 
 First converted pdf to image then,
 
