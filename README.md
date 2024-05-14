@@ -53,11 +53,13 @@ The challenge was to bring uniformity in position (moving up and down) and lines
   
 
 
+    
 
-### example_1:
+
+### example:
 - original doc converted to image:
 
-<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_page_1.png?raw=true" alt="image" width="400"/>
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/image.png?raw=true" alt="image" width="400"/>
   
 
 - Bounding boxes with fonts:
@@ -72,33 +74,6 @@ The challenge was to bring uniformity in position (moving up and down) and lines
 - Translated to french :
     
     <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_fr.png?raw=true" alt="image" width="400"/>
-    
-
-
-- Translated to dutch:
-
-    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_dutch.png?raw=true)" alt="image" width="400"/>
-    
-
-
-# example_2:
-- original doc converted to image:
-
-<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/image.png?raw=true" alt="image" width="400"/>
-  
-
-- Bounding boxes with fonts:
-
-<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/eg2_witharr.jpg?raw=true" alt="image" width="400"/>
-
-
-- Translated to hindi:
-
-    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/test_f2_hin.png?raw=true" alt="image" width="400"/>
-
-- Translated to french :
-    
-    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg2/test_f2_fr.png?raw=true" alt="image" width="400"/>
     
 
 
