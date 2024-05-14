@@ -9,8 +9,8 @@ Scanning text such that around each word, a bounding box is made
 ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/image_detector/test5.jpg_with_boxes.jpg?raw=true)
 
 And then, using our pre-trained model, it will be able to detect the font around each word  
-![image](https://github.com/adityarathor007/Story/assets/120591213/1d67b0da-4e5f-47f0-8152-e6c8a9dcbf74)
-![image](https://github.com/adityarathor007/Story/assets/120591213/4b0aaf93-9857-473e-82db-884ea989ce9d)
+![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/image_detector/word_4out.png?raw=true)
+![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/image_detector/word_7out.png?raw=true)
 
 
 
@@ -31,4 +31,34 @@ And trained a svm and random forest classifier for font style prediction and reg
 
 First converted pdf to image then,
 
-Now again extraction of features and predicting font size and style and creating a new image with those specfication and with the help of google trans translated each word into different language and placed them at the same position using bounding box
+Now again extraction of features and predicting font size and style and creating a new image with those specfication and with the help of google trans translated each word into different language and placed them at the same position using bounding box.
+
+The challenge was to bring uniformity in position (moving up and down) and lines with the same paragraph and was solved by chossing the y_corrdinate of the bounding box of starting word for each word in the line and for font for each line starting word label was checked  :
+
+
+- actual image from pdf:
+
+
+- without uniformity:
+
+
+- with uniformity:
+
+
+
+- Example 1:
+    - original doc converted to image:
+        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_page_1.png?raw=true)
+
+    - Bounding boxes with fonts:
+        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_witharr.jpg?raw=true)
+
+
+    - Creating new image with background entact and words translated to other language in the image:
+        - in hindi: 
+        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_hin.png?raw=true)
+        - in french: 
+        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_fr.png?raw=true)
+        - in dutch:
+        ![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_dutch.png?raw=true)
+
