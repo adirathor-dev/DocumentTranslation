@@ -6,7 +6,7 @@ Font identification system capable of recognizing diverse font styles. By blendi
 
 ## Screenshots
 Scanning text such that around each word, a bounding box is made 
-![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/image_detector/test9.jpg_with_boxes.jpg?raw=true)
+![image](https://github.com/adirathor-dev/DocumentTranslation/blob/main/image_detector/test5.jpg_with_boxes.jpg?raw=true)
 
 And then, using our pre-trained model, it will be able to detect the font around each word  
 ![image](https://github.com/adityarathor007/Story/assets/120591213/1d67b0da-4e5f-47f0-8152-e6c8a9dcbf74)
