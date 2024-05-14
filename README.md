@@ -64,16 +64,16 @@ The challenge was to bring uniformity in position (moving up and down) and lines
 
 - Bounding boxes with fonts:
 
-<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_witharr.jpg?raw=true" alt="image" width="400"/>
+<img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg1_arr.jpg?raw=true" alt="image" width="400"/>
 
 
 - Translated to hindi:
 
-    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_hin.png?raw=true" alt="image" width="400"/>
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg_hin.png?raw=true" alt="image" width="400"/>
 
 - Translated to french :
     
-    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/test_f2_fr.png?raw=true" alt="image" width="400"/>
+    <img src="https://github.com/adirathor-dev/DocumentTranslation/blob/main/eg1/eg_fr.png?raw=true" alt="image" width="400"/>
     
 
 
